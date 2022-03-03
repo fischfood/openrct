@@ -2,10 +2,7 @@ object
 objects.idx
 scenarios.idx
 tracks.idx
-keys/bfischer-890f76f53b617e43283211a928dac6aec8a98c50.pubkey
-keys/bfischer.privkey
 title sequences
 old title sequences
+keys/*
 config.ini
-keys/Fisch-1ee84b2d244f091f920cd2bb18f78bccd56774eb.pubkey
-keys/Fisch.privkey
